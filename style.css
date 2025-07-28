@@ -37,3 +37,31 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+body {
+  background-color: #f0fff4;
+  color: #2f4f2f;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+nav {
+  background-color: #2f4f2f;
+  color: white;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+button {
+  background-color: #3c763d;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
